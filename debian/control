@@ -1,0 +1,14 @@
+Source: lliurex-cups-client
+Section: admin
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Uploaders: Daniel Duran Vecino, Juan Ramon Pelegrina <lliurex_devel2@edu.gva.es>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 4.1.2
+
+Package: lliurex-cups-client
+Depends:  ${shlibs:Depends}, ${misc:Depends}
+Architecture: all
+Description: package to configure cups in client
+ 
+

@@ -1,0 +1,17 @@
+lliurex-cups-client (0.2) focal; urgency=medium
+
+  * First version to focal.
+
+ -- Daniel Duran <daduve@gmail.com>  Mon, 31 May 2021 16:21:00 +0200
+
+lliurex-cups-client (0.2) bionic; urgency=medium
+
+  * Initial bionic release
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 14 Mar 2019 12:22:31 +0100
+
+lliurex-cups-client (0.1) xenial; urgency=medium
+
+  * Enabled IPv4 in cups-browsed.conf
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 17 Jul 2017 12:37:35 +0200
